@@ -12,7 +12,8 @@ Python, Pandas, scikit-learn, Streamlit, Flask, SQL, PostgreSQL, AWS RDS
 
 ## 📄 [View Resume](./resume.pdf)
 
-## 🌐 Deployed Portfolio (Coming Soon...)
+## 🌐 Deployed Portfolio
+https://vineetha-portfolio-2ivolurpic6s3qezcofdcl.streamlit.app/
 
 ---
 
