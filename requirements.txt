@@ -5,3 +5,5 @@ scikit-learn>=1.2
 matplotlib>=3.7
 seaborn>=0.12
 Pillow>=9.5
+xgboost
+shap
