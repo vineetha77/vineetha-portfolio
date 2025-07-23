@@ -71,7 +71,7 @@ python visualize_matched_crops.py
 
 Streamlit App (UI Viewer)
 
-streamlit run app_view_matches.py
+streamlit run 5_app_view_matches.py
 
 # Techniques Used
 
