@@ -67,7 +67,7 @@ python jersey_number_recognizer.py
 
 # Step 5: Visualize Matched Pairs (side-by-side)
 
-python visualize_matched_crops.py
+python 4_visualize_matched_crops.py
 
 Streamlit App (UI Viewer)
 
