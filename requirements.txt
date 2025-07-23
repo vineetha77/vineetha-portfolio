@@ -1,0 +1,24 @@
+# Core libraries
+numpy
+pandas
+opencv-python
+torch
+torchvision
+matplotlib
+scikit-learn
+tqdm
+Pillow
+glob2
+
+# Tracking and detection
+ultralytics==8.0.20
+deep_sort_realtime
+
+# Re-ID (Torchreid)
+torchreid
+
+# OCR (Optional - Experimental Jersey Recognition)
+easyocr
+
+# Web App
+streamlit
