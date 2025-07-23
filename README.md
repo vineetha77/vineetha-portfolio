@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 # Step 1: Track Players in Both Videos
 
+Please download best.pt shared by you and place it in the project folder before running the scripts.
+
 Edit video_type to 'tacticam' and run
 
 python 1_track_players.py
